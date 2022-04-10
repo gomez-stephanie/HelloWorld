@@ -1,0 +1,15 @@
+/Users/stephaniegomez/repos/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/Users/stephaniegomez/repos/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/Users/stephaniegomez/repos/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/Users/stephaniegomez/repos/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/Users/stephaniegomez/repos/HelloWorld/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/Users/stephaniegomez/repos/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/Users/stephaniegomez/repos/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/stephaniegomez/repos/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephaniegomez/repos/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/stephaniegomez/repos/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/Users/stephaniegomez/repos/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/stephaniegomez/repos/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/Users/stephaniegomez/repos/HelloWorld/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/Users/stephaniegomez/repos/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/Users/stephaniegomez/repos/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
